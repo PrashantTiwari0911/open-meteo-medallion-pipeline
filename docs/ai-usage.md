@@ -10,5 +10,3 @@
 **What I reviewed and own**
 - Architecture and layer contracts (bronze immutability, dedupe key, idempotency).
 - Verified the outputs: 1,680 silver hourly rows (5 cities × 14 days × 24 h), all 8 DQ checks passing, 4 tests passing.
-
-Screenshots of the conversations are in `docs/ai-evidence/`.
